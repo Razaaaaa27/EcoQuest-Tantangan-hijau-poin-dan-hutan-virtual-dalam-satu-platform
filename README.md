@@ -24,6 +24,9 @@
 git clone https://github.com/username/EcoQuest.git
 cd EcoQuest
 
+# Install Vue CLI (jika belum terpasang secara global)
+npm install -g @vue/cli
+
 # Install dependencies
 npm install
 ```
