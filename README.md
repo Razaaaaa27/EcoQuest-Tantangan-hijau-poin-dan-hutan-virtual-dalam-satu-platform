@@ -21,7 +21,7 @@
 
 ```bash
 # Clone repositori
-git clone https://github.com/username/EcoQuest.git
+git clone https://github.com/Razaaaaa27/EcoQuest-Tantangan-hijau-poin-dan-hutan-virtual-dalam-satu-platform.git
 cd EcoQuest
 
 # Install Vue CLI (jika belum terpasang secara global)
